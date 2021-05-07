@@ -49,7 +49,7 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "core-js": "^2.6.9",
+    "core-js": "^3.12.0",
     "stacktrace-js": "^2.0.0"
   }
 }
