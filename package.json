@@ -44,7 +44,7 @@
     "http-server": "^0.11.1",
     "mocha": "^5.2.0",
     "nise": "^1.5.3",
-    "rimraf": "^2.7.1",
+    "rimraf": "^3.0.2",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
